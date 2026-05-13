@@ -13,6 +13,6 @@ Propiedades (atributos):
 1. registro_global : un diccionario que ya viene con los 12 cursos predefinidos (desdes 1ero básico hasta 4 medio).
 
 metodos (funciones internas):
-1. __init__ : sirve para crear el diccionario apenas nace el objeto "colegio".
+1. __init_  : sirve para crear el diccionario apenas nace el objeto "colegio".
 2. agregar_nuevo_alumno : una función que reciba un objeto "alumno" y lo guarde en el curso que corresponda.
 3. buscar_alumno_por_rut :  para no tener que repetir el codigo de búsqueda en cada parte del programa.
